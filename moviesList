@@ -168,29 +168,8 @@
         "time": "13:00"
       }
     
-  },
-  {
-      "title": "Harry Potter and the Philosopher's Stone",
-      "genre": "Fantasy, Adventure, Family",
-      "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
-      "release_date": "2001-11-16",
-      "showtimes":
-        {
-          "day": "Monday",
-          "time": "2:00PM"
-        }
-    },
-    {
-      "title": "Harry Potter and the Prisoner of Azkaban",
-      "genre": "Fantasy, Adventure, Family",
-      "description": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.",
-      "release_date": "2004-06-04",
-      "showtimes": 
-        {
-          "day": "Monday",
-          "time": "3:00PM"
-        }
-    }
+  }
+  
   ]
 
 
