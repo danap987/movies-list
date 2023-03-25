@@ -1,5 +1,4 @@
- {
-  "movies": [
+  [
     {
       "title": "Dune",
       "genre": "Action, Adventure, Drama",
@@ -201,4 +200,4 @@
       ]
     }
   ]
-}
+
