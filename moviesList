@@ -1,0 +1,172 @@
+{
+  "movies": [
+    {
+      "title": "Spider-Man: No Way Home",
+      "genre": "Action, Adventure, Sci-Fi",
+      "description": "Peter Parker tries to stop a multiversal threat from tearing apart the fabric of reality.",
+      "release_date": "2021-12-17",
+      "showtimes": [
+        {
+          "show_time": {
+            "day": "Tuesday",
+            "time": "19:00"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Matrix Resurrections",
+      "genre": "Action, Sci-Fi",
+      "description": "Neo returns to the Matrix to save Trinity and battle new threats.",
+      "release_date": "2021-12-22",
+      "showtimes": [
+        {
+          "show_time": {
+            "day": "Tuesday",
+            "time": "20:30"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Dune",
+      "genre": "Adventure, Drama, Sci-Fi",
+      "description": "A young man named Paul Atreides leads a rebellion against a galactic emperor in a battle for control of a desert planet.",
+      "release_date": "2021-09-15",
+      "showtimes": [
+        {
+          "show_time": {
+            "day": "Tuesday",
+            "time": "18:00"
+          }
+        }
+      ]
+    },
+    {
+      "title": "No Time to Die",
+      "genre": "Action, Adventure, Thriller",
+      "description": "James Bond has left active service when his old friend Felix Leiter from the CIA turns up asking for help.",
+      "release_date": "2021-09-28",
+      "showtimes": [
+        {
+          "show_time": {
+            "day": "Tuesday",
+            "time": "17:00"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "genre": "Action, Adventure, Fantasy",
+      "description": "Shang-Chi, the master of unarmed weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+      "release_date": "2021-09-03",
+      "showtimes": [
+        {
+          "show_time": {
+            "day": "Tuesday",
+            "time": "16:00"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Black Widow",
+      "genre": "Action, Adventure, Sci-Fi",
+      "description": "Natasha Romanoff, aka Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+      "release_date": "2021-07-09",
+      "showtimes": [
+        {
+          "show_time": {
+            "day": "Tuesday",
+            "time": "15:00"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Eternals",
+      "genre": "Action, Adventure, Drama",
+      "description": "The Eternals, a race of immortal beings with superhuman powers, reunite to protect the Earth from their evil counterparts, the Deviants.",
+      "release_date": "2021-11-05",
+      "showtimes": [
+        {
+          "show_time": {
+            "day": "Tuesday",
+            "time": "21:00"
+          }
+        }
+      ]
+    },
+     {
+      "title": "The French Dispatch",
+      "genre": "Comedy, Drama, Romance",
+      "description": "A love letter to journalists set in an outpost of an American newspaper in a fictional 20th-century French city.",
+      "release_date": "2021-10-22",
+      "showtimes": [
+        {
+          "show_time": {
+            "day": "Wednesday",
+            "time": "19:00"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Last Duel",
+      "genre": "Action, Drama, History",
+      "description": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire by challenging him to a duel.",
+      "release_date": "2021-10-15",
+      "showtimes": [
+        {
+          "show_time": {
+            "day": "Wednesday",
+            "time": "20:30"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Power of the Dog",
+      "genre": "Drama, Western",
+      "description": "A charismatic rancher inspires fear and awe in those around him.",
+      "release_date": "2021-11-17",
+      "showtimes": [
+        {
+          "show_time": {
+            "day": "Wednesday",
+            "time": "18:00"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Licorice Pizza",
+      "genre": "Comedy, Drama",
+      "description": "The story of Alana Kane and Gary Valentine growing up, running around, and going through the treacherous navigation of first love in the San Fernando Valley.",
+      "release_date": "2021-11-26",
+      "showtimes": [
+        {
+          "show_time": {
+            "day": "Wednesday",
+            "time": "17:00"
+          }
+        }
+      ]
+    },
+    {
+      "title": "West Side Story",
+      "genre": "Crime, Drama, Musical",
+      "description": "An adaptation of the 1957 musical, West Side Story explores forbidden love and the rivalry between the Jets and the Sharks.",
+      "release_date": "2021-12-10",
+      "showtimes": [
+        {
+          "show_time": {
+            "day": "Wednesday",
+            "time": "16:00"
+          }
+        }
+      ]
+    }
+  ]
+}
