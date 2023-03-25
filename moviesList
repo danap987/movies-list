@@ -180,16 +180,13 @@
       "imdb_rating": 9.0,
       "poster_url": "https://m.media-amazon.com/images/I/812qKIrJnQL._AC_SY741_.jpg",
       "image_url": "https://www.imdb.com/title/tt0468569/mediaviewer/rm1335282432/",
-      "showtimes": [
+      "showtimes": 
         {
           "day": "Monday",
           "time": "19:30"
-        },
-        {
-          "day": "Wednesday",
-          "time": "21:30"
+       
         }
-      ]
+      
     },
     {
       "title": "Pulp Fiction",
@@ -201,16 +198,11 @@
       "imdb_rating": 8.9,
       "poster_url": "https://m.media-amazon.com/images/I/51o8rKKWlQL._AC_SY741_.jpg",
       "image_url": "https://www.imdb.com/title/tt0110912/mediaviewer/rm1521651200/",
-      "showtimes": [
+      "showtimes": 
         {
           "day": "Tuesday",
           "time": "18:00"
-        },
-        {
-          "day": "Thursday",
-          "time": "20:00"
-        }
-      ]
+        } 
     },
     {
       "title": "Inception",
@@ -222,10 +214,11 @@
       "imdb_rating": 8.8,
       "poster_url": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_SY780_.jpg",
       "image_url": "https://www.imdb.com/title/tt1375666/mediaviewer/rm3167288320/",
-      "showtimes": [
+      "showtimes": 
         {
           "day": "Monday",
           "time": "21:00"
+        }
         }
   ]
 
