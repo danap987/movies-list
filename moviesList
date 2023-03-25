@@ -152,7 +152,48 @@
           "day": "Tuesday",
           "time": "18:00"
         } 
-    }
+    },
+    {    "title": "Toy Story",
+    "genre": "Animation", 
+    "director": "John Lasseter",
+    "cast": ["Tom Hanks", "Tim Allen", "Don Rickles"],
+    "release_year": 1995,
+    "imdb_rating": 8.3,
+    "showtimes": 
+      {
+        "day": "Monday",
+        "time": "13:00"
+      }
+    
+  },
+  {
+    "title": "The Lion King",
+    "genre": "Animation",
+    "director": "Roger Allers",
+    "cast": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
+    "release_year": 1994,
+    "imdb_rating": 8.5,
+    "showtimes": 
+      {
+        "day": "Tuesday",
+        "time": "13:00"
+      }
+    
+  },
+  {
+    "title": "Finding Nemo",
+    "genre": "Animation",
+    "director": "Andrew Stanton",
+    "cast": ["Albert Brooks", "Ellen DeGeneres", "Alexander Gould"],
+    "release_year": 2003,
+    "imdb_rating": 8.1,
+    "showtimes": 
+      {
+        "day": "Wednesday",
+        "time": "13:00"
+      }
+    
+  }
    
   ]
 
