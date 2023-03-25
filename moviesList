@@ -1,21 +1,5 @@
    [
-    {
-      "title": "The Shawshank Redemption",
-      "year": 1994,
-      "genre": "Drama",
-      "director": "Frank Darabont",
-      "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
-      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-      "imdb_rating": 9.2,
-      "poster_url": "https://m.media-amazon.com/images/I/51F3NPIiAAL._AC_SY780_.jpg",
-      "image_url": "https://www.imdb.com/title/tt0068646/mediaviewer/rm2393251328/",      
-      "showtimes": 
-        {
-          "day": "Monday",
-          "time": "14:00"
-        }
-      
-    },
+    
     {
       "title": "Forrest Gump",
       "year": 1994,
@@ -116,24 +100,7 @@
           "day": "Monday",
           "time": "17:00"
         }
-      
-    },
-    {
-      "title": "Forrest Gump",
-      "year": 1994,
-      "genre": "Drama, Romance",
-      "director": "Robert Zemeckis",
-      "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
-      "plot": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
-      "imdb_rating": 8.8,
-      "poster_url": "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SY741_.jpg",
-      "image_url": "https://www.imdb.com/title/tt0109830/mediaviewer/rm364562304/",
-      "showtimes": 
-        {
-          "day": "Tuesday",
-          "time": "18:30"
-        }
-      
+     
     },
     {
       "title": "The Shawshank Redemption",
@@ -202,6 +169,63 @@
           "time": "21:00"
         }
       
-    }
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": "Action, Crime, Drama",
+      "director": "Christopher Nolan",
+      "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+      "plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "imdb_rating": 9.0,
+      "poster_url": "https://m.media-amazon.com/images/I/812qKIrJnQL._AC_SY741_.jpg",
+      "image_url": "https://www.imdb.com/title/tt0468569/mediaviewer/rm1335282432/",
+      "showtimes": [
+        {
+          "day": "Monday",
+          "time": "19:30"
+        },
+        {
+          "day": "Wednesday",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "genre": "Crime, Drama",
+      "director": "Quentin Tarantino",
+      "actors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+      "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "imdb_rating": 8.9,
+      "poster_url": "https://m.media-amazon.com/images/I/51o8rKKWlQL._AC_SY741_.jpg",
+      "image_url": "https://www.imdb.com/title/tt0110912/mediaviewer/rm1521651200/",
+      "showtimes": [
+        {
+          "day": "Tuesday",
+          "time": "18:00"
+        },
+        {
+          "day": "Thursday",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "title": "Inception",
+      "year": 2010,
+      "genre": "Action, Adventure, Sci-Fi",
+      "director": "Christopher Nolan",
+      "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+      "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "imdb_rating": 8.8,
+      "poster_url": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_SY780_.jpg",
+      "image_url": "https://www.imdb.com/title/tt1375666/mediaviewer/rm3167288320/",
+      "showtimes": [
+        {
+          "day": "Monday",
+          "time": "21:00"
+        }
   ]
 
