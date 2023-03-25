@@ -151,8 +151,33 @@
           "day": "Tuesday",
           "time": "18:00"
         } 
-    }
+    },
     
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "year":2001,
+      "genre": "Fantasy, Adventure, Family",
+      "director": "Chris Columbus",
+      "actors": [
+        "Daniel Radcliffe",
+        "Emma Watson",
+        "Rupert Grint",
+        "Richard Harris",
+        "Maggie Smith",
+        "Alan Rickman",
+        "Robbie Coltrane"
+      ],
+      "plot": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+      "poster_url": "https://www.example.com/harry_potter_1/poster",
+      "image_url": "https://www.example.com/harry_potter_1/images",
+      "imdb_rating": 8.9,
+      "showtimes": 
+        {
+          "day": "Monday",
+          "time": "2:00PM"
+        }
+        
+    }
    
   ]
 
