@@ -12,17 +12,17 @@
       "image_url": "https://www.imdb.com/title/tt0109830/mediaviewer/rm3940847616/",
       "showtimes": 
         {"sunday":"true",
-        "sundayTime": "19:00";
+        "sundayTime": "19:00",
           "monday":"false",
-          "mondayTime": "20:00";
+          "mondayTime": "20:00",
           "tuesday":"true",
-        "tuesdayTime": "19:30";
+        "tuesdayTime": "19:30",
           "wednsday":"false",
-          "wednsdayTime": "20:00";
+          "wednsdayTime": "20:00",
           "thursday":"false",
-        "thursdayTime": "21:00";
+        "thursdayTime": "21:00",
           "friday":"false",
-          "fridayTime": "18:00";
+          "fridayTime": "18:00",
         }
         
       
@@ -39,17 +39,17 @@
       "image_url": "https://www.imdb.com/title/tt0068646/mediaviewer/rm2393251328/",
       "showtimes":
       {"sunday":"false",
-        "sundayTime": "19:00";
+        "sundayTime": "19:00",
           "monday":"true",
-          "mondayTime": "20:00";
+          "mondayTime": "20:00",
           "tuesday":"false",
-        "tuesdayTime": "19:30";
+        "tuesdayTime": "19:30",
           "wednsday":"true",
-          "wednsdayTime": "20:00";
+          "wednsdayTime": "20:00",
           "thursday":"false",
-        "thursdayTime": "21:00";
+        "thursdayTime": "21:00",
           "friday":"false",
-          "fridayTime": "18:00";
+          "fridayTime": "18:00",
           }
     },
      {
@@ -63,17 +63,17 @@
       "poster_url": "https://th.bing.com/th/id/OIP.DV_W6Rh-VjWPQlssTcVNgQHaEK?pid=ImgDet&rs=1",
       "image_url": "https://www.imdb.com/title/tt0109830/mediaviewer/rm3940847616/",
       "showtimes":{"sunday":"false",
-        "sundayTime": "19:00";
+        "sundayTime": "19:00",
           "monday":"false",
-          "mondayTime": "20:00";
+          "mondayTime": "20:00",
           "tuesday":"false",
-        "tuesdayTime": "19:30";
+        "tuesdayTime": "19:30",
           "wednsday":"false",
-          "wednsdayTime": "20:00";
+          "wednsdayTime": "20:00",
           "thursday":"true",
-        "thursdayTime": "18:00";
+        "thursdayTime": "18:00",
           "friday":"true",
-          "fridayTime": "18:00";
+          "fridayTime": "18:00",
           }
     },
     {
@@ -87,17 +87,17 @@
       "poster_url": "https://th.bing.com/th/id/R.5751324e45eaceaca55cc2b7c43b8f01?rik=Vazz5yBAY%2bDQrA&pid=ImgRaw&r=0",
       "image_url": "https://www.imdb.com/title/tt0133093/mediaviewer/rm3833521664/",
       "showtimes": {"sunday":"false",
-        "sundayTime": "19:00";
+        "sundayTime": "19:00",
           "monday":"false",
-          "mondayTime": "20:00";
+          "mondayTime": "20:00",
           "tuesday":"false",
-        "tuesdayTime": "19:30";
+        "tuesdayTime": "19:30",
           "wednsday":"false",
-          "wednsdayTime": "20:00";
+          "wednsdayTime": "20:00",
           "thursday":"true",
-        "thursdayTime": "21:00";
+        "thursdayTime": "21:00",
           "friday":"treu",
-          "fridayTime": "21:00";
+          "fridayTime": "21:00",
           }
       
     },
@@ -112,17 +112,17 @@
       "poster_url": "https://th.bing.com/th/id/OIP.LgX1Xsk4lmfk9R6WD7IiDgHaEK?pid=ImgDet&rs=1",
       "image_url": "https://www.imdb.com/title/tt0137523/mediaviewer/rm2520399872/",
       "showtimes": {"sunday":"true",
-        "sundayTime": "21:30";
+        "sundayTime": "21:30",
           "monday":"false",
-          "mondayTime": "20:00";
+          "mondayTime": "20:00",
           "tuesday":"false",
-        "tuesdayTime": "19:30";
+        "tuesdayTime": "19:30",
           "wednsday":"true",
-          "wednsdayTime": "18:00";
+          "wednsdayTime": "18:00",
           "thursday":"false",
-        "thursdayTime": "21:00";
+        "thursdayTime": "21:00",
           "friday":"false",
-          "fridayTime": "18:00";
+          "fridayTime": "18:00",
           }
       
     },
@@ -137,17 +137,17 @@
     "poster_url":"https://ntvb.tmsimg.com/assets/p31890_v_h8_ae.jpg?w=1280&h=720",
     "image_url": "https://www.imdb.com/title/tt0110912/mediaviewer/rm1521651200/",
     "showtimes": {"sunday":"false",
-        "sundayTime": "19:00";
+        "sundayTime": "19:00",
           "monday":"false",
-          "mondayTime": "17:00";
+          "mondayTime": "17:00",
           "tuesday":"false",
-        "tuesdayTime": "19:30";
+        "tuesdayTime": "19:30",
           "wednsday":"false",
-          "wednsdayTime": "20:00";
+          "wednsdayTime": "20:00",
           "thursday":"false",
-        "thursdayTime": "21:00";
+        "thursdayTime": "21:00",
           "friday":"false",
-          "fridayTime": "16:00";
+          "fridayTime": "16:00",
           }
     
   },
@@ -163,17 +163,17 @@
       "poster_url": "https://th.bing.com/th/id/OIP.tqWFw9afRvepNhH5hTb7bwHaEK?pid=ImgDet&rs=1",
       "image_url": "https://www.imdb.com/title/tt0111161/mediaviewer/rm1127268609/",
       "showtimes":{"sunday":"false",
-        "sundayTime": "19:00";
+        "sundayTime": "19:00",
           "monday":"false",
-          "mondayTime": "20:00";
+          "mondayTime": "20:00",
           "tuesday":"true",
-        "tuesdayTime": "21:30";
+        "tuesdayTime": "21:30",
           "wednsday":"false",
-          "wednsdayTime": "20:00";
+          "wednsdayTime": "20:00",
           "thursday":"false",
-        "thursdayTime": "21:00";
+        "thursdayTime": "21:00",
           "friday":"false",
-          "fridayTime": "18:00";
+          "fridayTime": "18:00",
           }
     },
     {
@@ -187,17 +187,17 @@
       "poster_url": "https://images-na.ssl-images-amazon.com/images/I/61Davr2gSbL._AC_SL1500_.jpg",
       "image_url": "https://www.imdb.com/title/tt0468569/mediaviewer/rm1335282432/",
       "showtimes": {"sunday":"false",
-        "sundayTime": "19:00";
+        "sundayTime": "19:00",
           "monday":"true",
-          "mondayTime": "22:00";
+          "mondayTime": "22:00",
           "tuesday":"false",
-        "tuesdayTime": "19:30";
+        "tuesdayTime": "19:30",
           "wednsday":"false",
-          "wednsdayTime": "20:00";
+          "wednsdayTime": "20:00",
           "thursday":"false",
-        "thursdayTime": "21:00";
+        "thursdayTime": "21:00",
           "friday":"false",
-          "fridayTime": "18:00";
+          "fridayTime": "18:00",
           }
     },
     {
@@ -211,17 +211,17 @@
       "poster_url": "https://th.bing.com/th/id/OIP.0ZB3xLGnvr-34VvlNlxO3gHaEK?pid=ImgDet&rs=1",
       "image_url": "https://www.imdb.com/title/tt0110912/mediaviewer/rm1521651200/",
       "showtimes": {"sunday":"false",
-        "sundayTime": "19:00";
+        "sundayTime": "19:00",
           "monday":"false",
-          "mondayTime": "20:00";
+          "mondayTime": "20:00",
           "tuesday":"false",
-        "tuesdayTime": "19:30";
+        "tuesdayTime": "19:30",
           "wednsday":"false",
-          "wednsdayTime": "20:00";
+          "wednsdayTime": "20:00",
           "thursday":"false",
-        "thursdayTime": "21:00";
+        "thursdayTime": "21:00",
           "friday":"true",
-          "fridayTime": "23:00";
+          "fridayTime": "23:00",
           }
     }
   ]
