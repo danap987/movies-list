@@ -1,203 +1,207 @@
-  [
+   [
     {
-      "title": "Dune",
-      "genre": "Action, Adventure, Drama",
-      "description": "A young man named Paul Atreides leads a rebellion against a corrupt galactic emperor.",
-      "release_date": "2021-09-17",
-      "showtimes": [
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "genre": "Drama",
+      "director": "Frank Darabont",
+      "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "imdb_rating": 9.2,
+      "poster_url": "https://m.media-amazon.com/images/I/81awyDYgOLL._AC_SY741_.jpg",
+      "image_url": "https://www.imdb.com/title/tt0111161/mediaviewer/rm1520563712/",
+      "showtimes": 
         {
           "day": "Monday",
-          "time": "3:30PM"
-        },
-        {
-          "day": "Tuesday",
-          "time": "6:00PM"
-        },
-        {
-          "day": "Wednesday",
-          "time": "8:30PM"
+          "time": "14:00"
         }
-      ]
+      
     },
     {
-      "title": "The French Dispatch",
-      "genre": "Comedy, Drama, Romance",
-      "description": "A love letter to journalists set in an outpost of an American newspaper in a fictional 20th-century French city.",
-      "release_date": "2021-10-22",
-      "showtimes": [
-        {
-          "day": "Monday",
-          "time": "4:00PM"
-        },
-        {
-          "day": "Tuesday",
-          "time": "7:00PM"
-        },
-        {
-          "day": "Wednesday",
-          "time": "9:00PM"
-        }
-      ]
-    },
-    {
-      "title": "Eternals",
-      "genre": "Action, Adventure, Drama",
-      "description": "The Eternals, a race of immortal beings, must reunite to protect Earth from their evil counterparts, the Deviants.",
-      "release_date": "2021-11-05",
-      "showtimes": [
-        {
-          "day": "Monday",
-          "time": "5:00PM"
-        },
+      "title": "Forrest Gump",
+      "year": 1994,
+      "genre": "Drama, Romance",
+      "director": "Robert Zemeckis",
+      "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+      "plot": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+      "imdb_rating": 8.8,
+      "poster_url": "https://m.media-amazon.com/images/I/51f4J0GgTHL._AC_SY780_.jpg",
+      "image_url": "https://www.imdb.com/title/tt0109830/mediaviewer/rm3940847616/",
+      "showtimes": 
         {
           "day": "Tuesday",
-          "time": "8:00PM"
-        },
-        {
-          "day": "Wednesday",
-          "time": "10:00PM"
+          "time": "15:00"
         }
-      ]
+      
     },
     {
-      "title": "Spencer",
-      "genre": "Biography, Drama",
-      "description": "During her Christmas holidays with the royal family at the Sandringham estate, Diana struggles with her marriage to Prince Charles.",
-      "release_date": "2021-11-05",
-      "showtimes": [
-        {
-          "day": "Monday",
-          "time": "6:00PM"
-        },
-        {
-          "day": "Tuesday",
-          "time": "9:00PM"
-        },
+      "title": "The Godfather",
+      "year": 1972,
+      "genre": "Crime, Drama",
+      "director": "Francis Ford Coppola",
+      "actors": ["Marlon Brando", "Al Pacino", "James Caan"],
+      "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "imdb_rating": 9.2,
+      "poster_url": "https://m.media-amazon.com/images/I/51F3NPIiAAL._AC_SY780_.jpg",
+      "image_url": "https://www.imdb.com/title/tt0068646/mediaviewer/rm2393251328/",
+      "showtimes": 
         {
           "day": "Wednesday",
-          "time": "11:00PM"
+          "time": "20:30"
         }
-      ]
+      
     },
-    {
-      "title": "The Power of the Dog",
-      "genre": "Drama, Western",
-      "description": "A domineering rancher torments his brother and sister-in-law after they welcome a new member into their family.",
-      "release_date": "2021-12-01",
-      "showtimes": [
-        {
-          "day": "Monday",
-          "time": "7:00PM"
-        },
-        {
-          "day": "Tuesday",
-          "time": "10:00PM"
-        },
-        {
-          "day": "Wednesday",
-          "time": "1:00AM"
-        }
-      ]
-    },
-    {
-      "title": "No Time to Die",
-      "genre": "Action, Adventure, Thriller",
-      "description": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help.",
-      "release_date": "2021-10-08",
-      "showtimes": [
-        {
-          "day": "Monday",
-          "time": "2:00PM"
-        },
-        {
-          "day": "Tuesday",
-          "time": "5:00PM"
-        },
-        {
-          "day": "Wednesday",
-          "time": "7:00PM"
-        }
-      ]
-    },
-    {
-      "title": "West Side Story",
-      "genre": "Crime, Drama, Musical",
-      "description": "An adaptation of the 1957 musical, West Side Story explores forbidden love and the rivalry between the Jets and the Sharks, two teenage street gangs of different ethnic backgrounds.",
-      "release_date": "2021-12-10",
-      "showtimes": [
-        {
-          "day": "Monday",
-          "time": "3:00PM"
-        },
-        {
-          "day": "Tuesday",
-          "time": "6:00PM"
-        },
-        {
-          "day": "Wednesday",
-          "time": "9:00PM"
-        }
-      ]
-    },
-    {
-      "title": "Don't Look Up",
-      "genre": "Comedy, Drama, Sci-Fi",
-      "description": "Two low-level astronomers must go on a giant media tour to warn mankind of an approaching comet that will destroy planet Earth.",
-      "release_date": "2021-12-10",
-      "showtimes": [
-        {
-          "day": "Monday",
-          "time": "4:00PM"
-        },
-        {
-          "day": "Tuesday",
-          "time": "7:00PM"
-        },
-        {
-          "day": "Wednesday",
-          "time": "10:00PM"
-        }
-      ]
-    },
-    {
-      "title": "The Lost Daughter",
-      "genre": "Drama, Thriller",
-      "description": "A woman's beach vacation takes a dark turn when she begins to confront the troubles of her past.",
-      "release_date": "2021-12-17",
-      "showtimes": [
-        {
-          "day": "Monday",
-          "time": "5:00PM"
-        },
-        {
-          "day": "Tuesday",
-          "time": "8:00PM"
-        },
-        {
-          "day": "Wednesday",
-          "time": "11:00PM"
-        }
-      ]
-    },
-    {
-      "title": "Spider-Man: No Way Home",
+     {
+      "title": "Inception",
+      "year": 2010,
       "genre": "Action, Adventure, Sci-Fi",
-      "description": "Spider-Man's identity is revealed and he seeks out the help of Doctor Strange to restore his secret identity while facing multiple villains from different realities.",
-      "release_date": "2021-12-17",
-      "showtimes": [
+      "director": "Christopher Nolan",
+      "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+      "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "imdb_rating": 8.8,
+      "poster_url": "https://m.media-amazon.com/images/I/9gk7adMZPpOoaE_qzfjO8xHmGyN.jpg",
+      "image_url": "https://www.imdb.com/title/tt1375666/mediaviewer/rm3354110977/",
+      "showtimes": 
         {
           "day": "Monday",
-          "time": "6:00PM"
-        },
+          "time": "18:00"
+        }
+      
+    },
+    {
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": "Action, Sci-Fi",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+      "plot": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "imdb_rating": 8.7,
+      "poster_url": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_SY780_.jpg",
+      "image_url": "https://www.imdb.com/title/tt0133093/mediaviewer/rm3833521664/",
+      "showtimes": 
         {
           "day": "Tuesday",
-          "time": "9:00PM"
-        },
+          "time": "20:00"
+        }
+      
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "genre": "Drama",
+      "director": "David Fincher",
+      "actors": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+      "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into something much, much more.",
+      "imdb_rating": 8.8,
+      "poster_url": "https://m.media-amazon.com/images/I/81n+DN--E3L._AC_SY741_.jpg",
+      "image_url": "https://www.imdb.com/title/tt0137523/mediaviewer/rm2520399872/",
+      "showtimes": 
         {
           "day": "Wednesday",
-          "time": "12:00AM"
+          "time": "19:30"
         }
-      ]
+      
+    },
+    {
+      "title": "The Godfather",
+      "year": 1972,
+      "genre": "Crime, Drama",
+      "director": "Francis Ford Coppola",
+      "actors": ["Marlon Brando", "Al Pacino", "James Caan"],
+      "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "imdb_rating": 9.2,
+      "poster_url": "https://m.media-amazon.com/images/I/51FnRHzZCRL._AC_SY780_.jpg",
+      "image_url": "https://www.imdb.com/title/tt0068646/mediaviewer/rm2446915840/",
+      "showtimes": 
+        {
+          "day": "Monday",
+          "time": "17:00"
+        }
+      
+    },
+    {
+      "title": "Forrest Gump",
+      "year": 1994,
+      "genre": "Drama, Romance",
+      "director": "Robert Zemeckis",
+      "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+      "plot": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+      "imdb_rating": 8.8,
+      "poster_url": "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SY741_.jpg",
+      "image_url": "https://www.imdb.com/title/tt0109830/mediaviewer/rm364562304/",
+      "showtimes": 
+        {
+          "day": "Tuesday",
+          "time": "18:30"
+        }
+      
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "genre": "Drama",
+      "director": "Frank Darabont",
+      "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "imdb_rating": 9.3,
+      "poster_url": "https://m.media-amazon.com/images/I/51Fe+C0rEFL._AC_SY780_.jpg",
+      "image_url": "https://www.imdb.com/title/tt0111161/mediaviewer/rm1127268609/",
+      "showtimes": 
+        {
+          "day": "Wednesday",
+          "time": "21:00"
+        }
+      
+    },
+    {
+      "title": "The Godfather",
+      "year": 1972,
+      "genre": "Crime, Drama",
+      "director": "Francis Ford Coppola",
+      "actors": ["Marlon Brando", "Al Pacino", "James Caan"],
+      "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "imdb_rating": 9.2,
+      "poster_url": "https://m.media-amazon.com/images/I/51FnRHzZCRL._AC_SY780_.jpg",
+      "image_url": "https://www.imdb.com/title/tt0068646/mediaviewer/rm2446915840/",
+      "showtimes": 
+        {
+          "day": "Monday",
+          "time": "17:00"
+        }
+      
+    },
+    {
+      "title": "Forrest Gump",
+      "year": 1994,
+      "genre": "Drama, Romance",
+      "director": "Robert Zemeckis",
+      "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+      "plot": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+      "imdb_rating": 8.8,
+      "poster_url": "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SY741_.jpg",
+      "image_url": "https://www.imdb.com/title/tt0109830/mediaviewer/rm364562304/",
+      "showtimes": 
+        {
+          "day": "Tuesday",
+          "time": "18:30"
+        }
+      
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "genre": "Drama",
+      "director": "Frank Darabont",
+      "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "imdb_rating": 9.3,
+      "poster_url": "https://m.media-amazon.com/images/I/51Fe+C0rEFL._AC_SY780_.jpg",
+      "image_url": "https://www.imdb.com/title/tt0111161/mediaviewer/rm1127268609/",
+      "showtimes": 
+        {
+          "day": "Wednesday",
+          "time": "21:00"
+        }
+      
     }
   ]
 
