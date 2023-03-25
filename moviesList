@@ -153,53 +153,6 @@
           "time": "18:00"
         } 
     },
-    {    "title": "Toy Story",
-    "genre": "Animation", 
-    "director": "John Lasseter",
-    "cast": ["Tom Hanks", "Tim Allen", "Don Rickles"],
-    "release_year": 1995,
-    "imdb_rating": 8.3,
-    "poster_url":https://www.bing.com/ck/a?!&&p=1b673c38e68cfee6JmltdHM9MTY3OTcwMjQwMCZpZ3VpZD0wM2MxMzdjNy04MDE5LTYyZGMtMzQ0OS0yN2NkODQxOTY0YTAmaW5zaWQ9NTU0MQ&ptn=3&hsh=3&fclid=03c137c7-8019-62dc-3449-27cd841964a0&u=a1L2ltYWdlcy9zZWFyY2g_cT1Ub3klMjBTdG9yeSZGT1JNPUlRRlJCQSZpZD0xQjREMTYwODAzRTdENEE4OTlBOEYzODkwN0ZDNzQxNUY5ODY3Q0E0&ntb=1",
-    "image_url": "https://www.imdb.com/title/tt0110912/mediaviewer/rm1521651200/",
-    "showtimes": 
-      {
-        "day": "Monday",
-        "time": "13:00"
-      }
-    
-  },
-  {
-    "title": "The Lion King",
-    "genre": "Animation",
-    "director": "Roger Allers",
-    "cast": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
-    "release_year": 1994,
-    "imdb_rating": 8.5,
-    "poster_url":"https://www.laughingplace.com/w/wp-content/uploads/2022/12/live-action-the-lion-king-to-air-on-abcs-the-wonderful-world-of-disney-on-new-years-day.jpg/w1200",
-    "image_url": "https://www.imdb.com/title/tt0110912/mediaviewer/rm1521651200/",
-    "showtimes": 
-      {
-        "day": "Tuesday",
-        "time": "13:00"
-      }
-    
-  },
-  {
-    "title": "Finding Nemo",
-    "genre": "Animation",
-    "director": "Andrew Stanton",
-    "cast": ["Albert Brooks", "Ellen DeGeneres", "Alexander Gould"],
-    "release_year": 2003,
-    "imdb_rating": 8.1,
-    "poster_url":"https://ntvb.tmsimg.com/assets/p31890_v_h8_ae.jpg?w=1280&h=720",
-    "image_url": "https://www.imdb.com/title/tt0110912/mediaviewer/rm1521651200/",
-    "showtimes": 
-      {
-        "day": "Wednesday",
-        "time": "13:00"
-      }
-    
-  }
    
   ]
 
