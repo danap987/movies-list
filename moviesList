@@ -177,7 +177,21 @@
           "time": "2:00PM"
         }
         
-    }
+    },
+    {    "title": "Toy Story",
+    "genre": "Animation", 
+    "director": "John Lasseter",
+    "cast": ["Tom Hanks", "Tim Allen", "Don Rickles"],
+    "release_year": 1995,
+    "imdb_rating": 8.3,
+    "poster_url":https://www.bing.com/ck/a?!&&p=1b673c38e68cfee6JmltdHM9MTY3OTcwMjQwMCZpZ3VpZD0wM2MxMzdjNy04MDE5LTYyZGMtMzQ0OS0yN2NkODQxOTY0YTAmaW5zaWQ9NTU0MQ&ptn=3&hsh=3&fclid=03c137c7-8019-62dc-3449-27cd841964a0&u=a1L2ltYWdlcy9zZWFyY2g_cT1Ub3klMjBTdG9yeSZGT1JNPUlRRlJCQSZpZD0xQjREMTYwODAzRTdENEE4OTlBOEYzODkwN0ZDNzQxNUY5ODY3Q0E0&ntb=1",
+    "image_url": "https://www.imdb.com/title/tt0110912/mediaviewer/rm1521651200/",
+    "showtimes": 
+      {
+        "day": "Monday",
+        "time": "13:00"
+      }
+
    
   ]
 
