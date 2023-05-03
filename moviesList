@@ -1,101 +1,67 @@
    [
-    
-   
-    {
-      "title": "Fight Club",
-      "year": 1999,
-      "genre": "Drama",
-      "director": "David Fincher",
-      "actors": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
-      "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into something much, much more.",
-      "imdb_rating": 8.8,
-      "poster_url": "https://th.bing.com/th/id/OIP.LgX1Xsk4lmfk9R6WD7IiDgHaEK?pid=ImgDet&rs=1",
-      "image_url": "https://www.imdb.com/title/tt0137523/mediaviewer/rm2520399872/",
-      "showtimes": 
-        {
-          "day": "Wednesday",
-          "time": "19:30"
-        }
-      
-    },
-    {
-    "title": "Finding Nemo",
-    "genre": "Animation",
-    "director": "Andrew Stanton",
-    "actors": ["Albert Brooks", "Ellen DeGeneres", "Alexander Gould"],
-    "release_year": 2003,
-    "plot": "Nemmo lost his way home, but found some really good freinds. He learnd about the real world. what an amazing advanture!",
-    "imdb_rating": 8.1,
-    "poster_url":"https://ntvb.tmsimg.com/assets/p31890_v_h8_ae.jpg?w=1280&h=720",
-    "image_url": "https://www.imdb.com/title/tt0110912/mediaviewer/rm1521651200/",
-    "showtimes": 
-      {
-        "day": "Wednesday",
-        "time": "13:00"
-      }
-    
-  },
-
-    {
-      "title": "The Shawshank Redemption",
-      "year": 1994,
-      "genre": "Drama",
-      "director": "Frank Darabont",
-      "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
-      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-      "imdb_rating": 9.3,
-      "poster_url": "https://th.bing.com/th/id/OIP.tqWFw9afRvepNhH5hTb7bwHaEK?pid=ImgDet&rs=1",
-      "image_url": "https://www.imdb.com/title/tt0111161/mediaviewer/rm1127268609/",
-      "showtimes": 
-        {
-          "day": "Wednesday",
-          "time": "21:00"
-        }
-      
-    },
-    {
-      "title": "The Dark Knight",
-      "year": 2008,
-      "genre": "Action, Crime, Drama",
-      "director": "Christopher Nolan",
-      "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
-      "plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
-      "imdb_rating": 9.0,
-      "poster_url": "https://images-na.ssl-images-amazon.com/images/I/61Davr2gSbL._AC_SL1500_.jpg",
-      "image_url": "https://www.imdb.com/title/tt0468569/mediaviewer/rm1335282432/",
-      "showtimes": 
-        {
-          "day": "Monday",
-          "time": "19:30"
-        }
-      
-    },
-    {
-      "title": "Pulp Fiction",
-      "year": 1994,
-      "genre": "Crime, Drama",
-      "director": "Quentin Tarantino",
-      "actors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
-      "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-      "imdb_rating": 8.9,
-      "poster_url": "https://th.bing.com/th/id/OIP.0ZB3xLGnvr-34VvlNlxO3gHaEK?pid=ImgDet&rs=1",
-      "image_url": "https://www.imdb.com/title/tt0110912/mediaviewer/rm1521651200/",
-      "showtimes": 
-        {
-          "day": "Tuesday",
-          "time": "18:00"
-        } 
+  
+  {
+    "title": "The Godfather",
+    "director": "Francis Ford Coppola",
+    "genre": "Crime, Drama",
+    "duration": 175,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "posterUrl": "https://example.com/the-godfather-poster.jpg",
+    "showtime": {
+      "day": "Tuesday",
+      "hour": "20:00"
     }
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "genre": "Crime, Drama",
+    "duration": 154,
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "posterUrl": "https://example.com/pulp-fiction-poster.jpg",
+    "showtime": {
+      "day": "Wednesday",
+      "hour": "19:15"
+    }
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "genre": "Action, Crime, Drama",
+    "duration": 152,
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "posterUrl": "https://example.com/the-dark-knight-poster.jpg",
+    "showtime": {
+      "day": "Thursday",
+      "hour": "21:00"
+    }
+  },
+  
+  {
+    "title": "The Matrix",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "genre": "Action, Sci-Fi",
+    "duration": 136,
+    "description": "A computer programmer learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "posterUrl": "https://example.com/the-matrix-poster.jpg",
+    "showtime": {
+      "day": "Tuesday",
+      "hour": "20:00"
+    }
+  },
+  {
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "duration": 169,
+    "description": "A team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival.",
+    "posterUrl": "https://example.com/interstellar-poster.jpg",
+    "showtime": {
+      "day": "Wednesday",
+      "hour": "19:15"
+    }
+  }
+  
   ]
 
-
-
-
-
-
-
-
-
-   
-  
 
