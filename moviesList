@@ -1,3 +1,5 @@
+
+
    [
   {
     "title": "The Shawshank Redemption",
@@ -17,7 +19,7 @@
     "genre": "Crime, Drama",
     "duration": 175,
     "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
-    "posterUrl": "https://th.bing.com/th/id/R.b611ffb8e54a8ad757c4d43b5739afe3?rik=r0h9dKb5J8ZGnA&pid=ImgRaw&r=0",
+    "posterUrl": "https://www.piano-academie.eu/wp-content/uploads/2021/01/Le-Parrain-V1.png",
     "showtime": {
       "day": "Tuesday",
       "hour": "20:00"
@@ -53,7 +55,7 @@
     "genre": "Drama, Romance",
     "duration": 142,
     "description": "The presidencies of Kennedy to Johnson seen through the eyes of a simple-minded, kind-hearted, and athletically-talented man.",
-    "posterUrl": "https://th.bing.com/th/id/R.2df11803b12b750e504ff3472a4366ef?rik=ljLKoMKdZRQqgw&riu=http%3a%2f%2fyuvarevolution.org%2fwp-content%2fuploads%2f2014%2f09%2fForrest-Gump.jpg&ehk=gMywug4fAw4wuYtESD1BVtjvTqAO99R1zuZTKwitFq4%3d&risl=&pid=ImgRaw&r=0"",
+    "posterUrl": "https://www.pngmart.com/files/22/Forrest-Gump-PNG-Photo.png",
     "showtime": {
       "day": "Friday",
       "hour": "17:45"
@@ -77,7 +79,7 @@
     "genre": "Action, Adventure, Sci-Fi",
     "duration": 148,
     "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
-    "posterUrl": "https://th.bing.com/th/id/OIP.DV_W6Rh-VjWPQlssTcVNgQHaEK?pid=ImgDet&rs=1",
+    "posterUrl": "https://www.pngmart.com/files/22/Inception-PNG-Clipart-1.png",
     "showtime": {
       "day": "Monday",
       "hour": "18:30"
@@ -155,4 +157,3 @@
 
    
   
-
