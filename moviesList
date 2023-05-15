@@ -31,7 +31,7 @@
     "genre": "Crime, Drama",
     "duration": 154,
     "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-    "posterUrl": "https://static.wikia.nocookie.net/international-entertainment-project/images/b/b4/Pulp_Fiction_-_poster_%28Czech%29.png/revision/latest?cb=20230116025615",
+    "posterUrl": "https://static.wixstatic.com/media/36c354_81d2471019334d80bc2f3d7b038bb85a~mv2.jpg/v1/fill/w_875,h_875,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/36c354_81d2471019334d80bc2f3d7b038bb85a~mv2.jpg",
     "showtime": {
       "day": "Wednesday",
       "hour": "19:15"
@@ -79,7 +79,7 @@
     "genre": "Action, Adventure, Sci-Fi",
     "duration": 148,
     "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
-    "posterUrl": "https://www.pngmart.com/files/22/Inception-PNG-Clipart-1.png",
+    "posterUrl": "https://wiki.mafiascum.net/images/6/62/Inception_Mafia_Poster.png",
     "showtime": {
       "day": "Monday",
       "hour": "18:30"
@@ -115,7 +115,7 @@
     "genre": "Biography, Drama",
     "duration": 120,
     "description": "Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook.",
-    "posterUrl": "https://example.com/the-social-network-poster.jpg",
+    "posterUrl": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/5dc2f451767c35001cecfceb.jpg",
     "showtime": {
       "day": "Thursday",
       "hour": "21:00"
@@ -127,7 +127,7 @@
     "genre": "Comedy, Drama, Musical",
     "duration": 128,
     "description": "A jazz pianist falls for an aspiring actress in Los Angeles.",
-    "posterUrl": "https://example.com/la-la-land-poster.jpg",
+    "posterUrl": "https://fiu-original.b-cdn.net/fontsinuse.com/use-images/47/47378/47378.jpeg",
     "showtime": {
       "day": "Friday",
       "hour": "17:45"
@@ -139,7 +139,7 @@
     "genre": "Adventure, Drama, Thriller",
     "duration": 156,
     "description": "A frontiersman left for dead and forced to fight for his survival in the harsh winter wilderness.",
-    "posterUrl": "https://example.com/the-revenant-poster.jpg",
+    "posterUrl": "https://fiu-original.b-cdn.net/fontsinuse.com/use-images/36/36689/36689.jpeg",
     "showtime": {
       "day": "Saturday",
       "hour": "22:30"
