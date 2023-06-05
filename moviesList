@@ -9,7 +9,7 @@
     "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
     "posterUrl": "https://th.bing.com/th/id/OIP.tqWFw9afRvepNhH5hTb7bwHaEK?pid=ImgDet&rs=1",
     "showtime": {
-      "day": "Monday",
+      "Date": "17/07/2023",
       "hour": "18:30"
     }
   },
@@ -21,7 +21,7 @@
     "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
     "posterUrl": "https://th.bing.com/th/id/R.b611ffb8e54a8ad757c4d43b5739afe3?rik=r0h9dKb5J8ZGnA&pid=ImgRaw&r=0",
     "showtime": {
-      "day": "Tuesday",
+      "Date": "20/07/2023",
       "hour": "20:00"
     }
   },
@@ -33,7 +33,7 @@
     "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
     "posterUrl": "https://th.bing.com/th/id/OIP.0ZB3xLGnvr-34VvlNlxO3gHaEK?pid=ImgDet&rs=1",
     "showtime": {
-      "day": "Wednesday",
+       "Date": "24/07/2023",
       "hour": "19:15"
     }
   },
@@ -45,7 +45,7 @@
     "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
     "posterUrl": "https://images-na.ssl-images-amazon.com/images/I/61Davr2gSbL._AC_SL1500_.jpg",
     "showtime": {
-      "day": "Thursday",
+      "Date": "22/07/2023",
       "hour": "21:00"
     }
   },
@@ -57,7 +57,7 @@
     "description": "The presidencies of Kennedy to Johnson seen through the eyes of a simple-minded, kind-hearted, and athletically-talented man.",
     "posterUrl": "https://th.bing.com/th/id/R.2df11803b12b750e504ff3472a4366ef?rik=ljLKoMKdZRQqgw&riu=http%3a%2f%2fyuvarevolution.org%2fwp-content%2fuploads%2f2014%2f09%2fForrest-Gump.jpg&ehk=gMywug4fAw4wuYtESD1BVtjvTqAO99R1zuZTKwitFq4%3d&risl=&pid=ImgRaw&r=0",
     "showtime": {
-      "day": "Friday",
+       "Date": "21/07/2023",
       "hour": "17:45"
     }
   },
@@ -69,7 +69,7 @@
     "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
     "posterUrl": "https://th.bing.com/th/id/OIP.LgX1Xsk4lmfk9R6WD7IiDgHaEK?pid=ImgDet&rs=1",
     "showtime": {
-      "day": "Saturday",
+       "Date": "19/07/2023",
       "hour": "22:30"
     }
   },
@@ -81,7 +81,7 @@
     "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
     "posterUrl": "https://th.bing.com/th/id/OIP.DV_W6Rh-VjWPQlssTcVNgQHaEK?pid=ImgDet&rs=1",
     "showtime": {
-      "day": "Monday",
+       "Date": "22/07/2023",
       "hour": "18:30"
     }
   },
@@ -93,7 +93,7 @@
     "description": "A computer programmer learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
     "posterUrl": "https://th.bing.com/th/id/R.5751324e45eaceaca55cc2b7c43b8f01?rik=Vazz5yBAY%2bDQrA&pid=ImgRaw&r=0",
     "showtime": {
-      "day": "Tuesday",
+       "Date": "26/07/2023",
       "hour": "20:00"
     }
   },
@@ -105,7 +105,7 @@
     "description": "A team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival.",
     "posterUrl": "https://xl.movieposterdb.com/14_07/2014/816692/xl_816692_0ab12d6a.jpg",
     "showtime": {
-      "day": "Wednesday",
+       "Date": "21/07/2023",
       "hour": "19:15"
     }
   },
@@ -117,7 +117,7 @@
     "description": "Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook.",
     "posterUrl": "https://example.com/the-social-network-poster.jpg",
     "showtime": {
-      "day": "Thursday",
+       "Date": "17/07/2023",
       "hour": "21:00"
     }
   },
@@ -129,7 +129,7 @@
     "description": "A jazz pianist falls for an aspiring actress in Los Angeles.",
     "posterUrl": "https://example.com/la-la-land-poster.jpg",
     "showtime": {
-      "day": "Friday",
+       "Date": "18/07/2023",
       "hour": "17:45"
     }
   },
@@ -141,7 +141,7 @@
     "description": "A frontiersman left for dead and forced to fight for his survival in the harsh winter wilderness.",
     "posterUrl": "https://example.com/the-revenant-poster.jpg",
     "showtime": {
-      "day": "Saturday",
+      "Date": "25/07/2023",
       "hour": "22:30"
     }
   }
@@ -152,8 +152,3 @@
 
 
 
-
-
-
-   
-  
