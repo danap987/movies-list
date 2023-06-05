@@ -115,7 +115,7 @@
     "genre": "Biography, Drama",
     "duration": 120,
     "description": "Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook.",
-    "posterUrl": "https://example.com/the-social-network-poster.jpg",
+    "posterUrl": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/5dc2f451767c35001cecfceb.jpg",
     "showtime": {
        "Date": "17/07/2023",
       "hour": "21:00"
@@ -127,7 +127,7 @@
     "genre": "Comedy, Drama, Musical",
     "duration": 128,
     "description": "A jazz pianist falls for an aspiring actress in Los Angeles.",
-    "posterUrl": "https://example.com/la-la-land-poster.jpg",
+    "posterUrl": "https://fiu-original.b-cdn.net/fontsinuse.com/use-images/47/47378/47378.jpeg",
     "showtime": {
        "Date": "18/07/2023",
       "hour": "17:45"
@@ -139,8 +139,7 @@
     "genre": "Adventure, Drama, Thriller",
     "duration": 156,
     "description": "A frontiersman left for dead and forced to fight for his survival in the harsh winter wilderness.",
-    "posterUrl": "https://example.com/the-revenant-poster.jpg",
-    "showtime": {
+    "posterUrl": "https://fiu-original.b-cdn.net/fontsinuse.com/use-images/36/36689/36689.jpeg",
       "Date": "25/07/2023",
       "hour": "22:30"
     }
